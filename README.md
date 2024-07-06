@@ -1,7 +1,5 @@
 # 💫About Me :
 I'm Junior Developer in Indonesia.
-
-128 / 5.000
 Currently I like the JavaScript programming language. Maybe you have suggestions for me on projects that would be suitable for me to work on?
 
 ## 🌐Socials
